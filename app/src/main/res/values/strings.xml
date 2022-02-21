@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CS 421 HW1 V3</string>
+    <string name="header_name_main">Sophia and Chris</string>
+    <string name="header_department_main">Computer Science</string>
+    <string name="header_year_main">Year 4</string>
+    <string name="grade_button">Grade</string>
+    <string name="discount_button">Discount</string>
+    <string name="show_grade_button">Show Grade</string>
+    <string name="grade_input_label">Enter your grade: </string>
+    <string name="grade_chosen_message">%s is your grade!</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="fname_input_label">Enter your first name:</string>
+    <string name="lname_input_label">Enter your last name:</string>
+    <string name="email_input_label">Enter your email:</string>
+    <string name="discount_code_confirmation">"Hey %s! Here is your discount code"</string>
+    <string name="add_text_validation">Please fill in all form fields</string>
+    <string name="generate_coupon_label">Generate Coupon</string>
+    <string name="empty_string"> </string>
+    <string name="header_text">Enter your name and email for a personalized discount code!</string>
+    <string name="unexpected_button_pressed">Unexpected Button Pressed</string>
+
+</resources>
